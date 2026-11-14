@@ -1,0 +1,41 @@
+OLDMAN STREAM COMPANION SOFTWARE LICENCE
+
+Copyright © 2026 OldMan Stream Companion.
+All rights reserved.
+
+OldMan Stream Companion (OMSC) is provided free of charge for use by
+streamers and content creators.
+
+You may install and use OMSC for personal or commercial streaming
+activities.
+
+Unless you have prior written permission from the copyright owner,
+you may not:
+
+- redistribute, republish, mirror or otherwise distribute OMSC or any
+  part of it;
+- repackage OMSC in another installer, bundle or software package;
+- sell, sublicense, rent, lease or charge for copies of OMSC;
+- modify, alter, patch, translate or adapt OMSC files;
+- create or distribute modified or derivative versions of OMSC;
+- remove or alter copyright, branding or ownership notices;
+- represent OMSC, or a modified version of OMSC, as your own work.
+
+Reverse engineering, decompilation or disassembly is prohibited except
+where such restriction is not permitted by applicable law.
+
+OMSC may interact with third-party products and services including
+Spotify, Twitch, Streamer.bot and Ko-fi. Those products, services,
+names and trademarks remain the property of their respective owners.
+
+OMSC is supplied "as is", without warranty of any kind. To the maximum
+extent permitted by law, the copyright owner accepts no liability for
+loss or damage arising from use of the software.
+
+Support or donations are entirely optional and do not change the terms
+of this licence.
+
+For permission to redistribute, modify or otherwise use OMSC outside
+these terms, contact:
+
+oldmanstreamingcompanion@gmail.com
